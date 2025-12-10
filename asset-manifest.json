@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/putt-putt-design/static/css/main.6246e39d.css",
+    "main.js": "/putt-putt-design/static/js/main.4de3ff8f.js",
+    "static/js/453.f4fed9fa.chunk.js": "/putt-putt-design/static/js/453.f4fed9fa.chunk.js",
+    "index.html": "/putt-putt-design/index.html",
+    "main.6246e39d.css.map": "/putt-putt-design/static/css/main.6246e39d.css.map",
+    "main.4de3ff8f.js.map": "/putt-putt-design/static/js/main.4de3ff8f.js.map",
+    "453.f4fed9fa.chunk.js.map": "/putt-putt-design/static/js/453.f4fed9fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6246e39d.css",
+    "static/js/main.4de3ff8f.js"
+  ]
+}
